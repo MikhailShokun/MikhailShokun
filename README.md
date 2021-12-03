@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikhailShokun
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I want to collaborate with Java developers
+- 👀 I’m interested in FrontEnd
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💞️ I want to collaborate with JS or FrontEnd developers
 - 📫 How to reach me : https://m.facebook.com/minishokun
 
 <!---
