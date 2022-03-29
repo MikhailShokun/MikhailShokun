@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikhailShokun
 - 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS
-- 💞️ I want to collaborate with JS or FrontEnd developers
+- 💞️ I want to collaborate with ReactJS or FrontEnd developers
 - 📫 How to reach me : https://m.facebook.com/minishokun
 
 <!---
