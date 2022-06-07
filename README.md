@@ -5,20 +5,19 @@
 - 📫 How to reach me : https://m.facebook.com/minishokun
 
 By now, I have mastered the following technologies:
-- HTML;
-- CSS;
-- JavaScript;
+- HTML, CSS, JavaScript;
 - Bootstrap;
 - SASS, LESS, SCSS;
 - I understand the basic principles of GULP, Webpack;
 - Node JS;
 - React/Redux;
+- TypeScript;
 - understanding REST API;
 - Git;
 - I can find errors in the project (debugging);
 
 I will learn the following technologies:
-- TypeScript;
+- MongoDB;
 - Nest;
 - PHP;
 - SQL;
