@@ -1,3 +1,6 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ### Hi there 👋, I'm Mikhail
 <a href="https://www.instagram.com/mikhailshokun/">
   <img align="left" alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -45,13 +48,11 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
 <br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <br />
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
