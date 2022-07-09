@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
 
 ## I'm a FrontEnd Developer (React.JS)
-- 👋 Hi, I’m @MikhailShokun
+- 👋 Hi, I’m MikhailShokun
 - 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS
 - 💞️ I want to collaborate with ReactJS or FrontEnd developers
