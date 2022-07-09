@@ -50,4 +50,6 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true" />
 
+<br />
+
 </details>
