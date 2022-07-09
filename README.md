@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/mikhail-shokun/">
   <img align="left" alt="Mikhail's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href=mailto:hammer.99.ivan@gmail.com>
-  <img width="20" src="./gmail1.png" />
+<a href=mailto:minishokun@gmail.com>
+  <img align="left" src="./gmail1.png" alt="Mikhail's Gmail" height="20"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
@@ -42,7 +42,6 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
