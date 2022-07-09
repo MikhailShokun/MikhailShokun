@@ -44,7 +44,7 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
 <br />
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <br />
 
