@@ -38,9 +38,10 @@
 If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a> 🥺👉👈
 
 
-<br />
+[//]: # (<br />)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[//]: # ()
+[//]: # (<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />)
 
 <br />
 
