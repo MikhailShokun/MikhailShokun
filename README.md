@@ -37,6 +37,7 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
