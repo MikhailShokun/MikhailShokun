@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mikhail
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> </h2> 
 
 <a href=https://t.me/MiniShok>
   <img align="left" height="20" width="" src="./icons/telegram.png" />
@@ -21,7 +21,7 @@
 
 <br />
 
-<h3 align="center">Languages and Tools:</h3>   
+<h3 align="center">🛠 Languages and Tools:</h3>   
 
 <p align="center">
 
