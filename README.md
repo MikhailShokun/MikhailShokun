@@ -17,7 +17,7 @@
 
 <br />
 
-## I'm a FrontEnd Developer (React.JS)
+<h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
 <br />
 
