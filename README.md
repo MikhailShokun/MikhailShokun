@@ -13,6 +13,9 @@ Hi there
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
   <img alt="Mikhail's LinkedIN" width="25" src="./icons/linkedin.png" />
 </a>
+<a href="https://www.facebook.com/minishokun" target="blank">
+  <img alt="Mikhail's Facebook" width="25" src="./icons/fb_icon.png" />
+</a>
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
   <img alt="Mikhail's Instagram" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
