@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mikhail
+
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
   <img align="left" alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -22,52 +23,53 @@
 
 ### Languages and Tools:
 
-<p align="center">
 <code>
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </code>
 <code>
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </code>
 <code>
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </code>
 <code>
-<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </code>
 <code>
-<img alt="Visual Studio Code" width="26px" src="./icons/vsc.svg" />
+<img alt="Visual Studio Code" width="30px" src="./icons/vsc.svg" />
 </code>
 <code>
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </code>
 <code>
-<img alt="firebase" width="26px" src="./icons/firebase.svg" />
+<img alt="firebase" width="30px" src="./icons/firebase.svg" />
 </code>
 <code>
-<img alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </code>
 <code>
-<img alt="styled components" width="26px" src="./icons/styled_components.png" />
+<img alt="styled components" width="30px" src="./icons/styled_components.png" />
 </code>
 <code>
-<img alt="mui" width="26px" src="./icons/mui.svg" />
+<img alt="mui" width="30px" src="./icons/mui.svg" />
 </code>
 <code>
-<img alt="webpack" width="26px" src="./icons/webpack.svg" />
+<img alt="webpack" width="30px" src="./icons/webpack.svg" />
 </code>
-</p>
 
 
 <br />
 <hr />
 
-If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a> 🥺👉👈
+If you like what I do, maybe
+consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
+🥺👉👈
 
 
 [//]: # (<br />)
 
 [//]: # ()
+
 [//]: # (<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />)
 
 <br />
@@ -76,20 +78,34 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 <br />
 
 ### Blog posts:
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
+
+<div align="center">
+
+[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-dark-mode-only&#41;)
+
+[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-light-mode-only&#41;)
+
+[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-dark-mode-only&#41;)
+
+[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-light-mode-only&#41;)
+
+
+  </div>
+
 <details>
-
   <summary>:zap: Statistics:</summary>
-
+<p align="center">
+ <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
+<br><br>
+ </p>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact" />
-
     <br />
-
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true" />
-
 <br />
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
 </details>
