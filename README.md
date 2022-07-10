@@ -1,21 +1,22 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> </h2> 
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> </h2> 
 
+<div align="center">
 <a href=https://t.me/MiniShok>
-  <img align="left" height="20" width="" src="./icons/telegram.png" />
+  <img height="20" width="" src="./icons/telegram.png" />
 </a> 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
-  <img align="left" alt="Mikhail's LinkedIN" width="20px" src="./icons/linkedin.png" />
+  <img alt="Mikhail's LinkedIN" width="20px" src="./icons/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
-  <img align="left" alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href=mailto:minishokun@gmail.com target="blank">
-  <img align="left" src="./icons/gmail.png" alt="Mikhail's Gmail" height="20"/>
+  <img src="./icons/gmail.png" alt="Mikhail's Gmail" height="20"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
 
-
+</div>
 
 <h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
