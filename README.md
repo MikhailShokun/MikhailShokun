@@ -171,9 +171,7 @@ consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img 
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
-
 <!-- BLOG-POST-LIST:END -->
 
 
