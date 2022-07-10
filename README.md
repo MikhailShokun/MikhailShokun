@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mikhail
-![](https://komarev.com/ghpvc/?username=MikhailShokun)
-<br />
-contact with me:
+
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
   <img align="left" alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -15,6 +13,7 @@ contact with me:
   <img height="20" width="" src="./icons/telegram.png" />
 </a> 
 
+![](https://komarev.com/ghpvc/?username=MikhailShokun)
 
 <br />
 
