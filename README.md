@@ -1,17 +1,17 @@
 <h2 align="center">
 Hi there 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
+<img alt="Hi" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=MikhailShokun">
+<img alt="Mikhail's page views" src="https://komarev.com/ghpvc/?username=MikhailShokun">
 </p>
 
 
 <div align="center">
 <a href=https://t.me/MiniShok>
-  <img height="25" width="" src="./icons/telegram.png" />
+  <img alt="Mikhail's Telegram" height="25" width="" src="./icons/telegram.png" />
 </a> 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
   <img alt="Mikhail's LinkedIN" width="25" src="./icons/linkedin.png" />
@@ -23,7 +23,7 @@ Hi there
   <img alt="Mikhail's Instagram" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href=mailto:minishokun@gmail.com target="blank">
-  <img src="./icons/gmail.png" alt="Mikhail's Gmail" height="25"/>
+  <img alt="Mikhail's Gmail" src="./icons/gmail.png" height="25"/>
 </a>
 
 
@@ -92,7 +92,6 @@ Hi there
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
