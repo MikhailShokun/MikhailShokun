@@ -93,12 +93,12 @@ Hi there
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
 <details>
-  <summary><img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
+  <summary>
+<img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
 My stats:</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
