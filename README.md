@@ -94,9 +94,10 @@
 </div>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
  </div>
-<br />
 <hr />
+<p align="center">
 If you like what I do, maybe
 consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 🥺👉👈
+</p>
 </details>
