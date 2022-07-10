@@ -2,16 +2,16 @@
 
 <div align="center">
 <a href=https://t.me/MiniShok>
-  <img height="20" width="" src="./icons/telegram.png" />
+  <img height="25" width="" src="./icons/telegram.png" />
 </a> 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
-  <img alt="Mikhail's LinkedIN" width="20px" src="./icons/linkedin.png" />
+  <img alt="Mikhail's LinkedIN" width="25" src="./icons/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
-  <img alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Mikhail's Instagram" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href=mailto:minishokun@gmail.com target="blank">
-  <img src="./icons/gmail.png" alt="Mikhail's Gmail" height="20"/>
+  <img src="./icons/gmail.png" alt="Mikhail's Gmail" height="25"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
