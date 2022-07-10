@@ -4,7 +4,7 @@ Hi there
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> 
 </h2>
 
-![](https://komarev.com/ghpvc/?username=MikhailShokun)
+<img align="center" src="https://komarev.com/ghpvc/?username=MikhailShokun">
 
 <div align="center">
 <a href=https://t.me/MiniShok>
