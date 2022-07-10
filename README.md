@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mikhail
 
 <a href=https://t.me/MiniShok>
-  <img height="20" width="" src="./icons/telegram.png" />
+  <img align="left" height="20" width="" src="./icons/telegram.png" />
 </a> 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
   <img align="left" alt="Mikhail's LinkedIN" width="20px" src="./icons/linkedin.png" />
