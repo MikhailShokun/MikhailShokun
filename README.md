@@ -13,9 +13,12 @@
   <img height="20" width="" src="./icons/telegram.png" />
 </a> 
 
+<span>
+
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
 
-<br />
+</span>
+
 
 <h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
