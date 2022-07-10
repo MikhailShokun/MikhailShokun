@@ -90,7 +90,6 @@ Hi there
 
 </p>
 
-<hr/>
 
 <h3> Blog posts: </h3>
 
