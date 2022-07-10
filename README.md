@@ -100,7 +100,7 @@ Hi there
 <details>
   <summary>
 <img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
-My stats🔽🔽🔽</summary>
+My statistics:🔽🔽🔽</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
