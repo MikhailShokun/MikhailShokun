@@ -86,31 +86,18 @@ consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img 
 <!-- BLOG-POST-LIST:END -->
 
 
-
-<div align="center">
-
-[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-dark-mode-only&#41;)
-
-[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-light-mode-only&#41;)
-
-[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-dark-mode-only&#41;)
-
-[//]: # (![]&#40;https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-light-mode-only&#41;)
-
-
-  </div>
-
 <details>
   <summary>:zap: Statistics:</summary>
 <div align="center">
- <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun />
+ <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
 <div align="center">
-   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact" width="40%"/>
-    <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true" width="40%"/>
+   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact"/>
+<br />
+    <img style="margin-bottom: 15px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true"/>
 </div>
 <br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&hide_border=false"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
 
  </div>
 </details>
