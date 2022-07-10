@@ -1,10 +1,12 @@
 <h2 align="center">
 Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
-<a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> 
-<img align="center" src="https://komarev.com/ghpvc/?username=MikhailShokun">
+<a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=MikhailShokun">
+</p>
 
 
 <div align="center">
@@ -29,7 +31,7 @@ Hi there
 
 <h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
-<h3 align="center">🛠 Languages and Tools I use:</h3>   
+<h3 align="center">🛠 Languages and Tools I use:</h3>
 
 <p align="center">
 
