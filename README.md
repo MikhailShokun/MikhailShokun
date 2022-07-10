@@ -2,9 +2,10 @@
 Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a> 
+<img align="center" src="https://komarev.com/ghpvc/?username=MikhailShokun">
 </h2>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=MikhailShokun">
+
 
 <div align="center">
 <a href=https://t.me/MiniShok>
