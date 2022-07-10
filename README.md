@@ -20,8 +20,6 @@
 
 <h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
-<br />
-
 <h3 align="center">🛠 Languages and Tools:</h3>   
 
 <p align="center">
@@ -85,7 +83,7 @@
 
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>:zap: My stats:</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
