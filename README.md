@@ -21,9 +21,9 @@
 
 <br />
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>   
 
-<p align="left">
+<p align="center">
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
@@ -76,98 +76,6 @@
 
 </p>
 
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="styled components" width="30px" src="./icons/styled_components.png" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<code>)
-
-[//]: # ()
-[//]: # (<img alt="webpack" width="30px" src="./icons/webpack.svg" />)
-
-[//]: # ()
-[//]: # (</code>)
-
-
-<br />
-<hr />
-
-If you like what I do, maybe
-consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
-🥺👉👈
-
-
-[//]: # (<br />)
-
-[//]: # ()
-
-[//]: # (<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />)
-
-<br />
-
-
-<br />
-
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
@@ -186,4 +94,9 @@ consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img 
 </div>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
  </div>
+<br />
+<hr />
+If you like what I do, maybe
+consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
+🥺👉👈
 </details>
