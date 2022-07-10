@@ -4,6 +4,7 @@ Hi there
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
+
 <p align="center"> 
 <img alt="Mikhail's page views" src="https://komarev.com/ghpvc/?username=MikhailShokun">
 </p>
@@ -96,7 +97,8 @@ Hi there
 
 
 <details>
-  <summary>:zap: My stats:</summary>
+  <summary><img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
+My stats:</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
