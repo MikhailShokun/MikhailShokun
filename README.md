@@ -90,7 +90,7 @@ Hi there
 
 </p>
 
-### Blog posts:
+<h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
