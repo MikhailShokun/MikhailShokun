@@ -91,11 +91,11 @@ Hi there
 </p>
 
 
-<h3> Blog posts: </h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
-<!-- BLOG-POST-LIST:END -->
+[//]: # (<h3> Blog posts: </h3>)
+[//]: # ()
+[//]: # (<!-- BLOG-POST-LIST:START -->)
+[//]: # (- [It&#39;s my first post]&#40;https://dev.to/minishok/its-my-first-post-2dn5&#41;)
+[//]: # (<!-- BLOG-POST-LIST:END -->)
 
 <hr/>
 
@@ -115,7 +115,7 @@ My stats: 🔽🔽🔽</summary>
 <hr />
 <p align="center">
 If you like what I do, maybe
-consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
+<a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 🥺👉👈
 </p>
 </details>
