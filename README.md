@@ -1,16 +1,16 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-### Hi there 👋, I'm Mikhail
-<a href="https://www.instagram.com/mikhailshokun/">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Mikhail
+<a href="https://www.instagram.com/mikhailshokun/" target="blank">
   <img align="left" alt="Mikhail's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/mikhail-shokun/">
-  <img align="left" alt="Mikhail's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
+  <img align="left" alt="Mikhail's LinkedIN" width="20px" src="./icons/linkedin.png" />
 </a>
-<a href=mailto:minishokun@gmail.com>
-  <img align="left" src="./gmail1.png" alt="Mikhail's Gmail" height="20"/>
+<a href=mailto:minishokun@gmail.com target="blank">
+  <img align="left" src="./icons/gmail.png" alt="Mikhail's Gmail" height="20"/>
 </a>
+<a href=https://t.me/MiniShok>
+  <img height="20" width="" src="./icons/telegram.png" />
+</a> 
 
 ![](https://komarev.com/ghpvc/?username=MikhailShokun)
 
@@ -23,17 +23,41 @@
 ### Languages and Tools:
 
 <p align="center">
-
 <code>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </code>
-<code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
-<code><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-<code><img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code>
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</code>
+<code>
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</code>
+<code>
+<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</code>
+<code>
+<img alt="Visual Studio Code" width="26px" src="./icons/vsc.svg" />
+</code>
+<code>
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</code>
+<code>
+<img alt="firebase" width="26px" src="./icons/firebase.svg" />
+</code>
+<code>
+<img alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</code>
+<code>
+<img alt="styled components" width="26px" src="./icons/styled_components.png" />
+</code>
+<code>
+<img alt="mui" width="26px" src="./icons/mui.svg" />
+</code>
+<code>
+<img alt="webpack" width="26px" src="./icons/webpack.svg" />
+</code>
+</p>
+
 
 <br />
 <hr />
@@ -53,7 +77,6 @@ If you like what I do, maybe consider <a href="https://www.buymeacoffee.com/mini
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 

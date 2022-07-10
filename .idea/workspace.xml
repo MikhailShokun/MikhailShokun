@@ -5,7 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2971941-f3b2-455b-9c97-28dffccd7714" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/snk.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15953455368650.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_1584511056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_1584511104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_1584511351.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Blender_23505.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/bulma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/c++.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/chakra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/contentful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/expo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/framer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/gimp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/i18.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/java_22523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/native.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/nextjs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/powershell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pycharm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/rust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/sass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/scss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/sql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/tilda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/vue.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo koma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +96,7 @@
       <updated>1657296787251</updated>
       <workItem from="1657296789042" duration="114000" />
       <workItem from="1657349467710" duration="13061000" />
+      <workItem from="1657432280747" duration="2582000" />
     </task>
     <servers />
   </component>
