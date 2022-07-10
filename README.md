@@ -114,8 +114,8 @@ My stats: 🔽🔽🔽</summary>
  </div>
 <hr />
 <p align="center">
-If you like what I do, maybe
-<a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
+If you want to support me  
+<a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a> 
 🥺👉👈
 </p>
 </details>
