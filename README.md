@@ -80,7 +80,9 @@ consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img 
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
+
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -100,13 +102,15 @@ consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img 
 
 <details>
   <summary>:zap: Statistics:</summary>
-<p align="center">
+<div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
-<br><br>
- </p>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true" />
+
+<div align="center">
+   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact" />
+    <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true" />
+</div>
 <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
+
+ </div>
 </details>
