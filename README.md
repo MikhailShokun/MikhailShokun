@@ -20,7 +20,7 @@
 
 <h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
 
-<h3 align="center">🛠 Languages and Tools:</h3>   
+<h3 align="center">🛠 Languages and Tools I use:</h3>   
 
 <p align="center">
 
@@ -72,13 +72,15 @@
 <a href="https://www.npmjs.com/" target="_blank">
 <img alt="npm" src="./icons/Npm-logo.svg" width="40" height="40"/>
 </a>
+<a href="https://webpack.js.org/" target="_blank">
+<img alt="webpack" src="./icons/webpack.svg" width="40" height="40"/>
+</a>
 
 </p>
 
 ### Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 
