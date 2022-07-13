@@ -103,6 +103,7 @@ Hi there 👋, I'm
 
 <details align="center">
   <summary>My stats📊 : 🔽🔽🔽</summary>
+  <br />
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
