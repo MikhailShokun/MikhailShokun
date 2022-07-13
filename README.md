@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 👋, I'm 
+Hi there <img src="./icons/Hi.gif" width="5%" alt="👋">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
@@ -102,7 +102,9 @@ Hi there 👋, I'm
 <hr/>
 
 <details align="center">
-  <summary>My stats📊 : 🔽🔽🔽</summary>
+  <summary>
+  <img src="./icons/stats.gif" alt="📊" width="5%">
+  My stats: 🔽🔽🔽</summary>
   <br />
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
