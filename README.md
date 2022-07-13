@@ -38,7 +38,7 @@ Hi there <img src="./icons/Hi.gif" width="5%" alt="👋">, I'm
 <a href="https://reactjs.org/" target="_blank"> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </a>
-<a href="https://https://redux.js.org/" target="_blank"> 
+<a href="https://redux.js.org/" target="_blank"> 
 <img alt="redux" src="./icons/redux.png" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
