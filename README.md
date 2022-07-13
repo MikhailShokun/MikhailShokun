@@ -90,16 +90,19 @@ Hi there
 
 </p>
 
-### Blog posts:
+[//]: # (<h3> Blog posts: </h3>)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[//]: # ()
+[//]: # (<!-- BLOG-POST-LIST:START -->)
 
+[//]: # (- [It&#39;s my first post]&#40;https://dev.to/minishok/its-my-first-post-2dn5&#41;)
 
-<details>
+[//]: # (<!-- BLOG-POST-LIST:END -->)
+
+<details align="center">
   <summary>
 <img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
-My stats:</summary>
+My stats 🔽🔽🔽</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
