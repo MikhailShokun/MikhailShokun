@@ -39,7 +39,7 @@ Hi there
 <a href="https://reactjs.org/" target="_blank"> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </a>
-<a href="https://https://redux.js.org/" target="_blank"> 
+<a href="https://https://redux.js.org/" target="_blank" style={pading-bottom: 5px}> 
 <img alt="redux" src="./icons/redux.jpg" width="40" height="30"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
