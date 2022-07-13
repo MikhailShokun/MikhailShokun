@@ -1,7 +1,5 @@
 <h2 align="center">
-Hi there 👋
-[//]: # (<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="👋">)
-, I'm 
+Hi there 👋, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
@@ -104,9 +102,7 @@ Hi there 👋
 <hr/>
 
 <details align="center">
-  <summary>
-[//]: # (<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> )
-My stats📊 : 🔽🔽🔽</summary>
+  <summary>My stats📊 : 🔽🔽🔽</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
