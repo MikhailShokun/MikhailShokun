@@ -39,6 +39,9 @@ Hi there
 <a href="https://reactjs.org/" target="_blank"> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </a>
+<a href="https://https://redux.js.org/" target="_blank"> 
+<img alt="redux" src="./icons/redux.png" width="40" height="40"/> 
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
@@ -90,36 +93,17 @@ Hi there
 
 </p>
 
-<<<<<<< HEAD
-[//]: # (<h3> Blog posts: </h3>)
-
-[//]: # ()
-[//]: # (<!-- BLOG-POST-LIST:START -->)
-
-[//]: # (- [It&#39;s my first post]&#40;https://dev.to/minishok/its-my-first-post-2dn5&#41;)
-=======
-
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Подготовка к первому собесу](https://dev.to/minishok/podghotovka-k-piervomu-sobiesu-1je)
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
->>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
-
-[//]: # (<!-- BLOG-POST-LIST:END -->)
 
 <details align="center">
   <summary>
-<<<<<<< HEAD
-<img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
-My stats 🔽🔽🔽</summary>
-=======
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
 My stats: 🔽🔽🔽</summary>
->>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
