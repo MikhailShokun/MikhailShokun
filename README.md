@@ -1,6 +1,6 @@
 <h2 align="center">
 Hi there 
-<img alt="Hi" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
@@ -90,19 +90,36 @@ Hi there
 
 </p>
 
+<<<<<<< HEAD
 [//]: # (<h3> Blog posts: </h3>)
 
 [//]: # ()
 [//]: # (<!-- BLOG-POST-LIST:START -->)
 
 [//]: # (- [It&#39;s my first post]&#40;https://dev.to/minishok/its-my-first-post-2dn5&#41;)
+=======
+
+<h3> Blog posts: </h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [Подготовка к первому собесу](https://dev.to/minishok/podghotovka-k-piervomu-sobiesu-1je)
+- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
+<!-- BLOG-POST-LIST:END -->
+
+<hr/>
+>>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
 
 [//]: # (<!-- BLOG-POST-LIST:END -->)
 
 <details align="center">
   <summary>
+<<<<<<< HEAD
 <img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
 My stats 🔽🔽🔽</summary>
+=======
+<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
+My stats: 🔽🔽🔽</summary>
+>>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
@@ -114,8 +131,8 @@ My stats 🔽🔽🔽</summary>
  </div>
 <hr />
 <p align="center">
-If you like what I do, maybe
-consider <a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
+If you want to support me  
+<a href="https://www.buymeacoffee.com/minishokun" target="_blank"><img width="130" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a> 
 🥺👉👈
 </p>
 </details>
