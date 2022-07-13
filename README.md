@@ -96,6 +96,8 @@ Hi there
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подготовка к первому собесу](https://dev.to/minishok/podghotovka-k-piervomu-sobiesu-1je)
+- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
