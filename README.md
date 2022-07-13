@@ -40,7 +40,7 @@ Hi there
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </a>
 <a href="https://https://redux.js.org/" target="_blank"> 
-<img alt="redux" src="./icons/redux.jpg" width="40" height="30"/> 
+<img alt="redux" src="./icons/redux.jpg" width="40" height="30" style="margin-bottom: 5px"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
