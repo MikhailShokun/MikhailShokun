@@ -92,7 +92,7 @@ Hi there
 </a>
 
 </p>
-
+ 
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
