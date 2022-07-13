@@ -1,6 +1,6 @@
 <h2 align="center">
 Hi there 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="👋">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
@@ -30,7 +30,7 @@ Hi there
 
 </div>
 
-<h2 align="center">I'm a FrontEnd Developer (React.JS)</h2>
+<h2 align="center">I'm a FrontEnd Developer (React.JS) 👨‍💻</h2>
 
 <h3 align="center">🛠 Languages and Tools I use:</h3>
 
@@ -38,6 +38,9 @@ Hi there
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+</a>
+<a href="https://https://redux.js.org/" target="_blank"> 
+<img alt="redux" src="./icons/redux.png" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -89,16 +92,7 @@ Hi there
 </a>
 
 </p>
-
-<<<<<<< HEAD
-[//]: # (<h3> Blog posts: </h3>)
-
-[//]: # ()
-[//]: # (<!-- BLOG-POST-LIST:START -->)
-
-[//]: # (- [It&#39;s my first post]&#40;https://dev.to/minishok/its-my-first-post-2dn5&#41;)
-=======
-
+ 
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -107,19 +101,11 @@ Hi there
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
->>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
-
-[//]: # (<!-- BLOG-POST-LIST:END -->)
 
 <details align="center">
   <summary>
-<<<<<<< HEAD
-<img alt="statistics" src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
-My stats 🔽🔽🔽</summary>
-=======
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="5%"> 
 My stats: 🔽🔽🔽</summary>
->>>>>>> a8ce7f54f6627e5cd1ba8861c2688c2175235d45
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
