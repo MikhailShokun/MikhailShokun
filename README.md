@@ -1,5 +1,6 @@
 <h2 align="center">
-Hi there 👋, I'm 
+Hi there 
+<img src="./icons/Hi.gif" width="5%" alt="👋">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
 
@@ -91,19 +92,18 @@ Hi there 👋, I'm
 </a>
 
 </p>
- 
+
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Подготовка к первому собесу](https://dev.to/minishok/podghotovka-k-piervomu-sobiesu-1je)
-- [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
 
 <details align="center">
-  <summary>My stats📊 : 🔽🔽🔽</summary>
-  <br />
+  <summary>
+<img src="./icons/stats.gif" alt="📊" width="5%"> 
+My stats: 🔽🔽🔽</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
