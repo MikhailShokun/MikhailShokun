@@ -110,6 +110,8 @@ My stats: 🔽🔽🔽</summary>
 <div align="center">
  <img  alt="MikhailShokun's github stats" src=https://github-profile-trophy.vercel.app/?username=MikhailShokun&theme=darkhub />
 
+<hr />
+
 <div align="center">
     <img style="margin-bottom: 15px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhailShokun&show_icons=true"/>
    <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact"/>
