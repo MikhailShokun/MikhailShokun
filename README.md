@@ -117,6 +117,8 @@ My stats: 🔽🔽🔽</summary>
    <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailShokun&langs_count=8&layout=compact"/>
 </div>
 
+<hr />
+
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailShokun&theme=radical&hide_border=true"/>
  </div>
 <hr />
