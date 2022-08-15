@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 
+Hi there !
 <img src="./icons/Hi.gif" width="5%" alt="👋">, I'm 
 <a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">Mikhail</a>
 </h2>
