@@ -11,6 +11,7 @@ Hi there !
 
 
 <div align="center">
+  <h3>Follow me:</h3>
 <a href=https://t.me/MiniShok>
   <img alt="Mikhail's Telegram" height="25" width="" src="./icons/telegram.png" />
 </a> 
