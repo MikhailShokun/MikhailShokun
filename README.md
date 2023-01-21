@@ -67,6 +67,9 @@ Hi there !
 <a href="https://sass-lang.com" target="_blank"> 
 <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/> 
 </a>
+<a href="https://tailwindcss.com/" target="_blank"> 
+<img alt="sass" src="./icons/tailwind_css.png" width="40" height="40"/> 
+</a>
 <a href="https://code.visualstudio.com/" target="_blank">
 <img alt="Visual Studio Code" src="./icons/vsc.svg" width="40" height="40"/>
 </a>
