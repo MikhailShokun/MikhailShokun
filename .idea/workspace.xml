@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2971941-f3b2-455b-9c97-28dffccd7714" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/icons/social-media-twitter-logor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/twitter_logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/twitter_logo_black_generated.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <workItem from="1657698102181" duration="327000" />
       <workItem from="1657723603275" duration="133000" />
       <workItem from="1657723800330" duration="3421000" />
-      <workItem from="1674565625976" duration="731000" />
+      <workItem from="1674565625976" duration="1321000" />
     </task>
     <servers />
   </component>
