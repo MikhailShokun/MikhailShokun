@@ -24,6 +24,9 @@ Hi there !
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
   <img alt="Mikhail's Instagram" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+<a href="https://twitter.com/MikhailShokun" target="blank">
+  <img alt="Mikhail's twitter" src="./icons/twitter.png" height="25"/>
+</a>
 <a href=mailto:minishokun@gmail.com target="blank">
   <img alt="Mikhail's Gmail" src="./icons/gmail.png" height="25"/>
 </a>
