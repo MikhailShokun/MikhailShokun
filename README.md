@@ -12,13 +12,13 @@ Hi there !
 
 <div align="center">
   <h3>Follow me:</h3>
-<a href=https://t.me/MiniShok>
+<a href=https://t.me/MikhailShokun>
   <img alt="Mikhail's Telegram" height="25" width="" src="./icons/telegram.png" />
 </a> 
-<a href="https://www.linkedin.com/in/mikhail-shokun/" target="blank">
+<a href="https://www.linkedin.com/in/MikhailShokun/" target="blank">
   <img alt="Mikhail's LinkedIN" width="25" src="./icons/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/minishokun" target="blank">
+<a href="https://www.facebook.com/MikhailShokun" target="blank">
   <img alt="Mikhail's Facebook" width="25" src="./icons/fb_icon.png" />
 </a>
 <a href="https://www.instagram.com/mikhailshokun/" target="blank">
