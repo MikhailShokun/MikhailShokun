@@ -103,6 +103,7 @@ Hi there !
 <h3> Blog posts: </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Типизация TS](https://dev.to/minishok/tipizatsiia-ts-b14)
 - [Собеседование React.JS](https://dev.to/minishok/sobiesiedovaniie-reactjs-1cke)
 - [Подготовка к первому собесу](https://dev.to/minishok/podghotovka-k-piervomu-sobiesu-1je)
 - [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
