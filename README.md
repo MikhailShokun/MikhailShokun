@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi there !
 <img src="./icons/Hi.gif" width="5%" alt="👋">, I'm 
-<a href="[https://www.linkedin.com/in/mikhail-shokun/](https://www.linkedin.com/in/mykhailo-shokun/)" target="blank">Mykhailo</a>
+<a href="https://www.linkedin.com/in/mykhailo-shokun/" target="blank">Mykhailo</a>
 </h2>
 
 
